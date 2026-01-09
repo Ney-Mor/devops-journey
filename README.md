@@ -1,2 +1,3 @@
 # devops-journey
 My first steps of learning new things like: git, linux, docker and etc...
+Day one - 09.01.26
